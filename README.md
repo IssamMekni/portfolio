@@ -16,23 +16,21 @@ This is a personal portfolio website showcasing the professional work and skills
   - About
   - Resume
   - Portfolio
-  - Services
   - Skills
   - Contact
 
 ## Project Structure
 Issam-Mekni-portfolio/
 │
-├── index.html         # Main HTML file
-│
+├── index.html         
 ├── assets/
 │   ├── css/
-│   │   └── style.css  # Custom styling
+│   │   └── style.css 
 │   │
 │   ├── js/
-│   │   └── script.js  # JavaScript functionality
+│   │   └── script.js  
 │   │
-│   └── images/        # Project images and icons
+│   └── images/       
 │       ├── i1.jpg
 │       ├── portfolio.logo.png
 │       └── various icons
@@ -48,5 +46,3 @@ Issam-Mekni-portfolio/
 ## Contact
 For more information, please refer to the contact section in the portfolio.
 
-## License
-This project is open-source. Please check the license file for details.
