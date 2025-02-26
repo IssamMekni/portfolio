@@ -20,6 +20,7 @@ This is a personal portfolio website showcasing the professional work and skills
   - Contact
 
 ## Project Structure
+```
 Issam-Mekni-portfolio/
 │
 ├── index.html         
@@ -34,7 +35,7 @@ Issam-Mekni-portfolio/
 │       ├── i1.jpg
 │       ├── portfolio.logo.png
 │       └── various icons
-
+```
 ## Setup
 1. Clone the repository
 2. Open index.html in a web browser
